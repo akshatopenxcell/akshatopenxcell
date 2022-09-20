@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain, Solidity, Crypto, Web3**
 
-- 📫 How to reach me **AkshatShah04@gmail.com**
+- 📫 How to reach me **Akshat.Shah@openxcell.com**
 
 <p align="left">
 </p>
