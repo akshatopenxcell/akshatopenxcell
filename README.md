@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akshat Shah
+- 👀 I’m interested in Blockchain Technology
+- 🌱 I’m currently learning Ethereum and Rust
+- 💞️ I’m looking to collaborate on Public Blockchain Technology.
+- 📫 How to reach me akshat.shah@openxcell.com
